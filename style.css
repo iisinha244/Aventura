@@ -1,5 +1,19 @@
 body{
 background-color:rgb(24, 124, 218);
 display:flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0;
 
+}
+
+button {
+   background-color:black;
+   color: aliceblue;
+   font-family: "8ai Jamjuree", sans-serif;
+}
+
+.passo{
+    display: none;
 }
